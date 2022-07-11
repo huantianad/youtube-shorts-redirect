@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "YouTube Shorts Redirect",
   "author": "huantian",
-  "version": "1.0.0",
+  "version": "1.0.1",
 
   "description": "Redirect YouTube Shorts URLs to normal video URLs.",
 
